@@ -1,2 +1,2 @@
-# LSteph23-github.io
+# LSteph23.github.io
 GitHub Page!
